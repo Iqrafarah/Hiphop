@@ -1,0 +1,323 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+html {
+    scroll-behavior: smooth;
+}
+body{
+    font-family: 'Cinzel', serif;
+    background-color: #0a0104;
+    color: white;
+    padding: 10px;
+}
+.logo{
+    font-weight: 400; 
+    font-size: 1em;
+    margin: 30px;    
+}
+a {
+	text-decoration: none;
+	color: white;
+	outline: none;
+}
+.year {
+    text-align: center;
+    padding: 10px;
+}
+h1 {
+    margin: 0 0 1rem;
+    font-weight: normal;
+    margin-top: 170px;
+    text-align: center;
+    font-size: 18vw;
+    position: relative;
+}
+.intro p {
+    position: absolute;
+    text-align: center;
+    margin-top: 550px;
+    margin-left: 400px;
+    max-width: 650px;
+}
+.intro-imgs {
+    position: absolute;
+    margin-top: -100px;
+}
+.img1 {
+    width: 250px;
+    border-radius: 30px;
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 880px;
+}
+.img2 {
+    width: 250px;
+    border-radius: 30px;
+    position: absolute;
+    margin-top: 590px;
+    margin-left: 1100px;
+}
+.img3 {
+    width: 200px;
+    border-radius: 30px;
+    position: absolute;
+    margin-top: 350px;
+    margin-left: 480px;
+}
+.img4 {
+    width: 150px;
+    border-radius: 30px;
+    position: absolute;
+    margin-top: -10px;
+    margin-left: 1300px;
+}
+.img5 {
+    width: 200px;
+    border-radius: 30px;
+    position: absolute;
+    margin-top: 10;
+    margin-left: 50px;
+}
+.img6 {
+    width: 180px;
+    border-radius: 30px;
+    position: absolute;
+    margin-top: 450px;
+    margin-left: 150px;
+}
+.text {
+    margin-top: 400px;
+    font-size: 150px;
+}
+/* geschiedenis */
+#geschiedenis {
+    margin-top: 300px;
+    margin-left: 100px;
+    font-family: "GT Super Display";
+}
+.ges-span {
+    color: #db626f;
+    font-size: 30px;
+    font-weight: 700;
+}
+.ges-h2 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 70px;
+}
+.ges-p {
+    font-family: "Founders Grotesque Regular"; 
+    max-width: 700px;
+    font-size: 25px;
+}
+#geschiedenis img {
+    width: 450px;
+    float: right;
+    margin-top: -550px;
+    margin-right: 50px;
+    border-radius: 30px;
+    margin-bottom: 20px;
+}
+.img-p {
+  margin-left:950px;
+    font-size: 18px;  
+}
+
+/* geboorte */
+#geb {
+    margin-top: 150px;
+    margin-left: 100px;
+    font-family: "GT Super Display";
+}
+
+/* regels */
+#regels {
+    margin-top: 250px;
+    margin-left: 100px;
+    font-family: "GT Super Display";
+}
+.regels-span {
+    color: #94c1f2;
+    font-size: 30px;
+    font-weight: 700;
+}
+.regels-h2 {
+    
+    margin-bottom: 20px;
+    font-size: 70px;
+}
+.regels-p {
+    font-family: "Founders Grotesque Regular"; 
+    max-width: 700px;
+    font-size: 25px;
+    margin-left: 30px;
+}
+.regels-h3 {
+    font-family: "GT Super Display";
+    font-size: 30px;
+    margin-bottom: 15px;
+}
+.reg {
+    color: #94c1f2;
+    font-size: 30px;
+}
+.regel1 {
+    width: 500px;
+    float: right;
+    margin-right: 100px;
+    margin-top: -450px;
+}
+.regel2 {
+    width: 200px;
+    float: right;
+    margin-right: 500px;
+    margin-top: -600px;
+}
+.regel3 {
+    width: 200px;
+    float: right;
+    margin-right: 100px;
+    margin-top: -150px;
+}
+.text2{
+    margin-top: 100px;
+    font-size: 150px;
+}
+
+/* artiesten */
+#artiesten {
+    margin-top: 150px;
+    margin-left: 100px;
+    font-family: "GT Super Display";
+}
+.artiesten-span {
+    color: #74c26a;
+    font-size: 30px;
+    font-weight: 700;
+}
+.artiesten-h2 {   
+    margin-bottom: 40px;
+    font-size: 70px;
+}
+.artiesten-imgs img {
+    margin-bottom: 10px;
+    margin-right: 30px;
+    margin-left: 100px;
+}
+.artiest1 {
+    width: 250px;
+}
+.artiest2 {
+    width: 290px;
+}
+.artiest3 {
+    width: 250px;
+}
+.span1 {
+    position: absolute;
+    margin-left: 190px;
+    font-size: 25px;
+}
+.span2 {
+    position: absolute;
+    margin-left: 570px;
+    font-size: 25px;
+}
+.span3 {
+    position: absolute;
+    margin-left: 1010px;
+    font-size: 25px;
+}
+.span4 {
+    position: absolute;
+    margin-left: 190px;
+    font-size: 25px;
+}
+.span5 {
+    position: absolute;
+    margin-left:  600px;
+    font-size: 25px;
+}
+.span6 {
+    position: absolute;
+    margin-left: 950px;
+    font-size: 25px;
+}
+
+
+/* momenten */
+#momenten {
+margin-top: 300px;
+margin-bottom: 300px;
+margin-left: 100px;
+font-family: "GT Super Display";
+}
+.moment-span {
+color: #ebda69;
+font-size: 30px;
+font-weight: 700;
+}
+.moment-h2 {
+margin-top: 20px;
+margin-bottom: 20px;
+font-size: 70px;
+}
+.moment-p {
+font-family: "Founders Grotesque Regular"; 
+max-width: 700px;
+font-size: 25px;
+}
+#momenten img {
+width: 450px;
+float: right;
+margin-top: -350px;
+margin-right: 50px;
+border-radius: 30px;
+margin-bottom: 20px;
+}
+.img-p2 {
+    margin-left: 980px;
+    margin-top: -30px;
+    font-size: 18px;  
+}
+.cover {
+    width: 85%;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+/* liedjes */ 
+/* momenten */
+#liedjes {
+    margin-top: 300px;
+    margin-bottom: 300px;
+    margin-left: 100px;
+    font-family: "GT Super Display";
+    }
+    .lied-span {
+    color: #94c1f2;
+    font-size: 30px;
+    font-weight: 700;
+    }
+    .lied-h2 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 70px;
+    }
+    .lied-p {
+    font-family: "Founders Grotesque Regular"; 
+    max-width: 700px;
+    font-size: 25px;
+    }
+    #liedjes img {
+    width: 450px;
+    float: right;
+    margin-top: -350px;
+    margin-right: 50px;
+    border-radius: 30px;
+    margin-bottom: 20px;
+    }
