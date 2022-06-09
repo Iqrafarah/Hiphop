@@ -120,11 +120,12 @@ h1 {
     margin-top: -400px;
     margin-right: 50px;
     border-radius: 30px;
-    margin-bottom: 150px;
+    margin-bottom: 20px;
 }
 .img-p {
   margin-left:950px;
-    font-size: 18px;  
+  font-size: 18px;  
+  margin-bottom: 120px;	
 }
 
 /* geboorte */
