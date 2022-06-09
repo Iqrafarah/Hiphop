@@ -103,7 +103,7 @@ h1 {
     color: #db626f;
     font-size: 30px;
     font-weight: 700;
-    margin-top:100px;
+    margin-top: -250px;
 }
 .ges-h2 {
     margin-top: 20px;
@@ -127,9 +127,7 @@ h1 {
   margin-left:950px;
     font-size: 18px;  
 }
-.informatie {
-   margin-top:-100px;
-}
+
 /* geboorte */
 #geb {
     margin-top: 150px;
