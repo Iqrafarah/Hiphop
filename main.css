@@ -103,7 +103,6 @@ h1 {
     color: #db626f;
     font-size: 30px;
     font-weight: 700;
-    margin-top: 650px;
 }
 .ges-h2 {
     margin-top: 20px;
@@ -118,7 +117,7 @@ h1 {
 #geschiedenis img {
     width: 450px;
     float: right;
-    margin-top: -550px;
+    margin-top: -250px;
     margin-right: 50px;
     border-radius: 30px;
     margin-bottom: 20px;
